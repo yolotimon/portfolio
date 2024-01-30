@@ -357,7 +357,7 @@ body.dark-theme{
   padding: .5rem;
 }
 
-.projects__card:hover .projects__modal{
+.projects__card .projects__modal{
   bottom: 0;
 }
 
